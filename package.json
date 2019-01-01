@@ -1,0 +1,15 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine tests/calculator-test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
